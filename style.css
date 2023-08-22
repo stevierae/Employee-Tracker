@@ -1,0 +1,30 @@
+*{
+    display:block;
+    margin:0;
+    padding:0;
+}
+
+form{
+    background-color: red;
+display: flex;
+justify-content: center;
+padding: 10px 0px;
+}
+label{
+    background-color: orange;
+    width: 15%;
+}
+
+input {
+    background-color: white;
+    width: 55%;
+}
+
+div{
+    width: 15%;
+    background-color: blue;
+}
+
+p{
+    background-color: aqua;
+}
